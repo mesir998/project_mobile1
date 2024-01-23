@@ -1,0 +1,72 @@
+
+
+class Routes {
+  static const welcome = '/welcome';
+  static const loginpages = '/loginpages';
+  static const signup = '/signup';
+  static const home = '/home';
+  static const setelahlogin= '/setelah_login';
+  static const pesanan = '/pesanan';
+  static const minuman = '/minuman';
+  static const makanan = '/makanan';
+  static const detail = '/detail';
+  static const detail_2 = '/detail_2';
+  static const detail_3 = '/detail_3';
+  static const detail_4 = '/detail_4';
+  static const detail_5 = '/detail_5';
+  static const detail_6 = '/detail_6';
+  static const detail_7 = '/detail_7';
+  static const detail_8 = '/detail_8';
+  static const detail_9 = '/detail_9';
+  static const detail_10 = '/detail_10';
+  static const detail_11 = '/detail_11';
+  static const detail_12 = '/detail_12';
+  static const detail_13 = '/detail_13';
+  static const detail_14 = '/detail_14';
+  static const detail_15 = '/detail_15';
+  static const detail_16 = '/detail_16';
+  static const detail_17 = '/detail_17';
+  static const detail_18 = '/detail_18';
+  static const detail_19 = '/detail_19';
+  static const detail_20 = '/detail_20';
+  static const order = '/order';
+  static const order_2 = '/order_2';
+  static const order_3 = '/order_3';
+  static const order_4 = '/order_4';
+  static const order_5 = '/order_5';
+  static const order_6 = '/order_6';
+  static const order_7 = '/order_7';
+  static const order_8 = '/order_8';
+  static const order_9 = '/order_9';
+  static const order_10 = '/order_10';
+  static const order_11= '/order_11';
+  static const order_12= '/order_12';
+  static const order_13= '/order_13';
+  static const order_14= '/order_14';
+  static const order_15= '/order_15';
+  static const order_16= '/order_16';
+  static const order_17= '/order_17';
+  static const order_18= '/order_18';
+  static const order_19= '/order_19';
+  static const order_20= '/order_20';
+  static const chart = '/chart';
+  static const profil = '/profil';
+  static const kelola_menu = '/kelola_menu';
+  static const tambah_menu = '/tambah_menu';
+  static const edit_menu = '/edit_menu';
+  static const pesanan_pickup = '/pesanan_pickup';
+  static const pickup_lagi = '/pickup_lagi';
+  static const pickup_lagi3 = '/pickup_lagi3';
+  static const riwayat_pesanan = '/riwayat_pesanan';
+  static const riwayat_pesanan2 = '/riwayat_pesanan2';
+  static const riwayat_pesanan3 = '/riwayat_pesanan3';
+  static const riwayat_pesanan4 = '/riwayat_pesanan4';
+  static const riwayat_pesanan5 = '/riwayat_pesanan5';
+  static const laporan = '/laporan';
+  static const laporan_2 = '/laporan_2';
+  static const custom_line = '/custom_line';
+  static const deliver = '/deliver';
+  static const pickup = '/pickup';
+
+
+}
